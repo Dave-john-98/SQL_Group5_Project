@@ -1,0 +1,91 @@
+featureid,featuretype,featurename
+1,School,Fisher-Myers School
+2,School,Lynn Group School
+3,School,Jones-Padilla School
+4,School,Blair Inc School
+5,School,Nguyen LLC School
+6,School,Dawson-Holmes School
+7,School,"Mercado, Hendrix and Chapman School"
+8,School,Taylor LLC School
+9,School,Robinson LLC School
+10,School,Smith LLC School
+11,Park,"Green, Hill and Evans Park"
+12,Park,Anderson Ltd Park
+13,Park,Sosa Inc Park
+14,Park,"Pierce, Cunningham and Bautista Park"
+15,Park,"Bullock, Terry and Dudley Park"
+16,Park,Simmons-Hayes Park
+17,Park,Walker-Smith Park
+18,Park,Lopez-Carter Park
+19,Park,Rogers-Nguyen Park
+20,Park,Key-Simmons Park
+21,Grocery Store,Alvarez-Price Grocery Store
+22,Grocery Store,"Mcgee, Fleming and Johnson Grocery Store"
+23,Grocery Store,Mendoza-Jordan Grocery Store
+24,Grocery Store,Marshall LLC Grocery Store
+25,Grocery Store,"Davis, Smith and Wallace Grocery Store"
+26,Grocery Store,"Lee, Williams and Johnson Grocery Store"
+27,Grocery Store,Wilson Group Grocery Store
+28,Grocery Store,"Schneider, Fitzgerald and Morris Grocery Store"
+29,Grocery Store,Hester Inc Grocery Store
+30,Grocery Store,Oneal-Jackson Grocery Store
+31,Cinema,Lee-Lewis Cinema
+32,Cinema,Williams and Sons Cinema
+33,Cinema,Knight-Campos Cinema
+34,Cinema,Collins-Mosley Cinema
+35,Cinema,Sullivan LLC Cinema
+36,Cinema,Willis Group Cinema
+37,Cinema,"Roberson, Newton and Phillips Cinema"
+38,Cinema,"Morris, Smith and Bell Cinema"
+39,Cinema,Martinez-Turner Cinema
+40,Cinema,Walker LLC Cinema
+41,Museum,Davis Inc Museum
+42,Museum,Richardson Ltd Museum
+43,Museum,"Costa, Schneider and Acosta Museum"
+44,Museum,Henson and Sons Museum
+45,Museum,Schroeder-Chavez Museum
+46,Museum,Garcia-Peterson Museum
+47,Museum,"Davenport, Greene and Wright Museum"
+48,Museum,Griffin Ltd Museum
+49,Museum,Graham LLC Museum
+50,Museum,Palmer-Harrison Museum
+51,Library,Hill LLC Library
+52,Library,"Stephenson, Ray and Cohen Library"
+53,Library,"Gordon, Sloan and Smith Library"
+54,Library,"Woodward, Jones and Sherman Library"
+55,Library,"Adkins, Schwartz and Pena Library"
+56,Library,Chung-Gallegos Library
+57,Library,Archer-Clarke Library
+58,Library,Brown-Lewis Library
+59,Library,Edwards Ltd Library
+60,Library,Carr PLC Library
+61,Cafe,"Montgomery, Frost and Green Cafe"
+62,Cafe,Fleming-Lopez Cafe
+63,Cafe,"Humphrey, Rogers and Stark Cafe"
+64,Cafe,Howard-Madden Cafe
+65,Cafe,Huff PLC Cafe
+66,Cafe,Rojas-Campbell Cafe
+67,Cafe,"Miller, Daniels and Smith Cafe"
+68,Cafe,Rodgers-Hernandez Cafe
+69,Cafe,Dickerson-Chaney Cafe
+70,Cafe,Taylor-Dawson Cafe
+71,Hospital,"Choi, Moore and Rice Hospital"
+72,Hospital,Fry PLC Hospital
+73,Hospital,"Jenkins, Johnson and Rogers Hospital"
+74,Hospital,Wilcox Ltd Hospital
+75,Hospital,"Smith, Morgan and Garcia Hospital"
+76,Hospital,"Cunningham, Davis and Brown Hospital"
+77,Hospital,Reid Group Hospital
+78,Hospital,"Bush, Simpson and Stark Hospital"
+79,Hospital,"Young, Pennington and Clay Hospital"
+80,Hospital,"Navarro, Collins and Novak Hospital"
+81,Gym,Meyer-Lewis Gym
+82,Gym,Wolfe-Wilson Gym
+83,Gym,"Meadows, Ryan and Carter Gym"
+84,Gym,"Greene, Morrow and Brown Gym"
+85,Gym,Williams and Sons Gym
+86,Gym,Castillo-Jones Gym
+87,Gym,Novak Ltd Gym
+88,Gym,Lee and Sons Gym
+89,Gym,Kelly-Peters Gym
+90,Gym,"Wilson, Holmes and Williams Gym"
